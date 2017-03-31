@@ -1,7 +1,5 @@
 {
 	"maxRiverItems": 300,
-	"httpPort": "process.env.PORT",
-	"flHttpEnabled": true,
 	"homePage": { 
 		"panels": [
 			{
