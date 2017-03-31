@@ -1,6 +1,6 @@
 {
 	"maxRiverItems": 300,
-	"config.httpPort": "System.getenv(\"PORT\")",
+	"config.httpPort": "process.env.PORT",
 	"config.flHttpEnabled": true,
 	"homePage": { 
 		"panels": [
