@@ -1,5 +1,7 @@
 {
 	"maxRiverItems": 300,
+	"config.httpPort": 80,
+	"config.flHttpEnabled": true,
 	"homePage": { 
 		"panels": [
 			{
